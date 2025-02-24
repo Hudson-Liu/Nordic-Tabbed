@@ -1,5 +1,13 @@
 
-Nordic-Themed Tabs for BSPWM
+<h1 align="center">
+  <img src="https://github.com/Hudson-Liu/Nordic-Tabbed/blob/main/suckless_logo.png" width="40%">
+  <br>
+  Nordic-Themed Tabs for BSPWM
+  <br>
+  <img src="https://img.shields.io/github/commit-activity/y/Hudson-Liu/Nordic-Tabbed?style=for-the-badge&labelColor=%234c566a&color=%235e81ac" alt="Commit Frequency">
+  <img src="https://img.shields.io/github/license/Hudson-Liu/Nordic-Tabbed?style=for-the-badge&labelColor=%234c566a&color=%235e81ac" alt="License">
+</h1>
+
 ## Installation
 ### Step 0: Dependencies
 For Bsptab, make sure that all of the dependencies are installed. Missing any packages (e.g. `xdotool`) will cause the program to not work (blank windows may be created upon running the commands).
