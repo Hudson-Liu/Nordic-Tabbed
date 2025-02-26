@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/Hudson-Liu/Nordic-Tabbed/blob/master/suckless_logo.png" width="20%">
+  <img src="https://github.com/Hudson-Liu/Nordic-Tabbed/blob/master/suckless_logo.png" width="30%">
   <br>
   Nordic-Themed Tabs for BSPWM
   <br>
